@@ -1,2 +1,2 @@
 # SHARE_pyPSEDAS_MMS
-Analyzing MMS data using pySPEDAS
+A collection of Jupyter Notebooks which use pySPEDAS to analyze MMS data
