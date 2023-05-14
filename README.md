@@ -1,2 +1,2 @@
-# SHARE_pyPSEDAS_MMS
-A collection of Jupyter Notebooks which use pySPEDAS to analyze MMS data
+# SHARE_pyPSEDAS_MMS_currdir
+A collection of Jupyter Notebooks which use pySPEDAS to analyze Electric Current from MMS Observations
